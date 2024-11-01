@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andreas
 - 👀 I’m interested in Smarthome and my Fisker
 - 🌱 I’m currently learning all studf arround HA.
-- 📫 How to reach me andreas@rogerdivers.de
+- 📫 de
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
